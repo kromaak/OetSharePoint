@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="PeoplePickerScript\" Type="ElementManifest" />
+    <ProjectItemFile Source="jquery.js" Target="PeoplePickerScript\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.SPServices.js" Target="PeoplePickerScript\" Type="ElementFile" />
+    <ProjectItemFile Source="OetPeoplePickerWarning.js" Target="PeoplePickerScript\" Type="ElementFile" />
+    <ProjectItemFile Source="PeoplePickerWarningCall.txt" Target="PeoplePickerScript\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.OetSPServices.js" Target="PeoplePickerScript\" Type="ElementFile" />
+    <ProjectItemFile Source="OetPeoplePickerWarningFoundation.js" Target="PeoplePickerScript\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.SPServices-2013.02.js" Target="PeoplePickerScript\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

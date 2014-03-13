@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="075a6507-810c-4baa-8db5-99fc51c24325" solutionId="075a6507-810c-4baa-8db5-99fc51c24325" resetWebServer="false" name="Oet.PeoplePickerWarning" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8a4a4c2d-d317-4052-b602-153e7d6e3013" />
+  </features>
+</package>

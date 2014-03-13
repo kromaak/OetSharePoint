@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="075a6507-810c-4baa-8db5-99fc51c24325" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Oet.PeoplePickerWarning.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Oet.PeoplePickerWarning_OetPeoplePickerWarning\Feature.xml" />
+  </FeatureManifests>
+</Solution>

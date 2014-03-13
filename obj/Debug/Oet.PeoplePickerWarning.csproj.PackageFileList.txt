@@ -1,0 +1,1 @@
+bin\Debug\Oet.PeoplePickerWarning.wsp

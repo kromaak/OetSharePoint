@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <Module Name="PeoplePickerScript" Url="SiteAssets/Code">
+        <File Path="PeoplePickerScript\jquery.js" Url="jquery.js" Type="GhostableInLibrary" />
+        <File Path="PeoplePickerScript\jquery.SPServices.js" Url="jquery.SPServices.js" Type="GhostableInLibrary" />
+        <File Path="PeoplePickerScript\OetPeoplePickerWarning.js" Url="OetPeoplePicker/OetPeoplePickerWarning.js" Type="GhostableInLibrary" />
+        <File Path="PeoplePickerScript\PeoplePickerWarningCall.txt" Url="OetPeoplePicker/PeoplePickerWarningCall.txt" Type="GhostableInLibrary" />
+        <File Path="PeoplePickerScript\jquery.OetSPServices.js" Url="OetPeoplePicker/jquery.OetSPServices.js" Type="GhostableInLibrary" />
+        <File Path="PeoplePickerScript\OetPeoplePickerWarningFoundation.js" Url="OetPeoplePicker/OetPeoplePickerWarningFoundation.js" Type="GhostableInLibrary" />
+        <File Path="PeoplePickerScript\jquery.SPServices-2013.02.js" Url="jquery.SPServices-2013.02.js" Type="GhostableInLibrary" />
+    </Module>
+</Elements>

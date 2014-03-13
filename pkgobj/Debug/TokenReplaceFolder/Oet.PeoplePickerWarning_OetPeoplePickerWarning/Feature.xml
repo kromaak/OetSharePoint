@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="53cbad20-1002-4e7b-8ccc-53672f5e5d0a" ImageUrl="FeatureImagePlaceHolder" Scope="Site" Title="OET People Picker Warning">
+  <ElementManifests>
+    <ElementManifest Location="PeoplePickerScript\Elements.xml" />
+    <ElementFile Location="PeoplePickerScript\jquery.js" />
+    <ElementFile Location="PeoplePickerScript\jquery.SPServices.js" />
+    <ElementFile Location="PeoplePickerScript\OetPeoplePickerWarning.js" />
+    <ElementFile Location="PeoplePickerScript\PeoplePickerWarningCall.txt" />
+    <ElementFile Location="PeoplePickerScript\jquery.OetSPServices.js" />
+    <ElementFile Location="PeoplePickerScript\OetPeoplePickerWarningFoundation.js" />
+    <ElementFile Location="PeoplePickerScript\jquery.SPServices-2013.02.js" />
+  </ElementManifests>
+</Feature>

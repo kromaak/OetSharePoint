@@ -1,0 +1,5 @@
+C:\Users\akroma\Documents\Visual Studio 2010\SvnProjects\Oet.CustomControls\Oet.PeoplePickerWarning\bin\Debug\Oet.PeoplePickerWarning.dll
+C:\Users\akroma\Documents\Visual Studio 2010\SvnProjects\Oet.CustomControls\Oet.PeoplePickerWarning\bin\Debug\Oet.PeoplePickerWarning.pdb
+C:\Users\akroma\Documents\Visual Studio 2010\SvnProjects\Oet.CustomControls\Oet.PeoplePickerWarning\obj\Debug\Oet.PeoplePickerWarning.dll
+C:\Users\akroma\Documents\Visual Studio 2010\SvnProjects\Oet.CustomControls\Oet.PeoplePickerWarning\obj\Debug\Oet.PeoplePickerWarning.pdb
+C:\Users\akroma\Documents\Visual Studio 2010\SvnProjects\Oet.CustomControls\Oet.PeoplePickerWarning\obj\Debug\Oet.PeoplePickerWarning.csprojResolveAssemblyReference.cache

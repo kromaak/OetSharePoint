@@ -1,0 +1,3 @@
+﻿<script type="text/javascript" src="/sites/desktop02/SiteAssets/code/jquery.js"></script>
+<script type="text/javascript" src="/sites/desktop02/SiteAssets/code/jquery.SPServices.js"></script>
+<script type="text/javascript" src="/sites/desktop02/SiteAssets/code/OetPeoplePicker/OetPeoplePickerWarning.js"></script>
